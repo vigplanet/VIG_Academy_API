@@ -1,0 +1,6 @@
+<FileList>
+  <File Reference = "GrapeCity.ActiveReports.Core.Svg.dll">
+    <ToolboxItems VSCategory="ActiveReports">
+    </ToolboxItems>
+  </File>
+</FileList>
